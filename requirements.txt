@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 python-telegram-bot==21.8
-=======
+
 python-telegram-bot==<21.8>
->>>>>>> 5ac84cb9bdea908d353adf63e0d636cb8f88d13f
+ 5ac84cb9bdea908d353adf63e0d636cb8f88d13f
